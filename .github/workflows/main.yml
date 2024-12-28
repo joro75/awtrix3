@@ -3,7 +3,7 @@ permissions:
   contents: write
 on:
   push:
-    branches: [ main ]
+    branches: [ main, frostEffect ]
     paths:
       - 'src/**'
       - 'lib/**'
